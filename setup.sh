@@ -1,1 +1,4 @@
-this was a mistake
+#!/bin/bash
+
+sudo apt-get update
+sudo apt-get install sl
